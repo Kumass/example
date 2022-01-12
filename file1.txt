@@ -1,1 +1,12 @@
 this is my first test file
+
+
+i 
+make changes
+esc
+i
+make changes
+esc
+:
+q! 
+wq!
